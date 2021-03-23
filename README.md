@@ -1,1 +1,3 @@
-# Comunicação entre componentes 
+# Communication entry components 
+
+
