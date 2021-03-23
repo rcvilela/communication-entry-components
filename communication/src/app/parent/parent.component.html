@@ -1,0 +1,12 @@
+<div class="parent">
+    <app-child [form]="form" ></app-child>
+    <div>
+        <button type="submit">Enviar</button>
+    </div>
+</div>
+<div class="result">
+    <div>
+        <p class="title"></p>
+        <p>{{form.value | json}}</p>
+    </div>
+</div>
