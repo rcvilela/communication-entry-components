@@ -1,1 +1,1 @@
-# communication-entry-components
+# Comunicação entre componentes 
